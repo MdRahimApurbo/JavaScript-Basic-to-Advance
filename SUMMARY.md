@@ -1,3 +1,4 @@
 # Table of contents
 
-* [JavaScript-Basic-to-Advance](README.md)
+* [Js Comment](README.md)
+* [Inner Function in Javascript](inner-function-in-javascript.md)
