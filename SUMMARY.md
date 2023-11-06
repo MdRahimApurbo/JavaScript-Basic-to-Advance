@@ -2,3 +2,4 @@
 
 * [Js Comment](README.md)
 * [Inner Function in Javascript](inner-function-in-javascript.md)
+* [Scoping in Javascript](scoping-in-javascript.md)
