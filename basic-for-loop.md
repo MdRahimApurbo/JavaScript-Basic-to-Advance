@@ -10,3 +10,36 @@ for (i = 0; i <= n; i++) {
 }
 
 ```
+
+**Loop continues**
+
+```javascript
+
+var i, n = 10;
+
+for (i = 0; i <= n; i++) {
+
+    if(i=== 5 || i === 8 ){
+        continue;
+    }
+
+    document.write('<button>Hello ' + i + '</button> </br>');
+}
+
+```
+
+**Loop break**&#x20;
+
+```javascript
+var i, n = 10;
+
+for (i = 0; i <= n; i++) {
+
+    if(i=== 5 ){
+        break;
+    }
+
+    document.write('<button>Hello ' + i + '</button> </br>');
+}
+
+```
