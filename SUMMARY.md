@@ -13,3 +13,5 @@
 * [JavaScript Array](javascript-array.md)
 * [JavaScript Object](javascript-object.md)
 * [JavaScript String Methods](javascript-string-methods.md)
+* [JavaScript Date Object](javascript-date-object.md)
+* [JavaScript Math Object](javascript-math-object.md)
