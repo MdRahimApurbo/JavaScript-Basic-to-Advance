@@ -12,4 +12,4 @@
 * [Scoping in Javascript](scoping-in-javascript.md)
 * [JavaScript Array](javascript-array.md)
 * [JavaScript Object](javascript-object.md)
-* [new](new.md)
+* [JavaScript String Methods](javascript-string-methods.md)
